@@ -1,8 +1,7 @@
-# 🚀 GenBi v3 – AI-Powered Data Interaction Platform
+# 🚀 GenAIlytics  – AI-Powered Data Interaction Platform
 
-Welcome to **GenBi v3**, your intelligent assistant for seamless, natural language interaction with data. This platform brings the power of AI to your fingertips, enabling you to query, analyze, and interpret datasets without writing a single line of code.
+Welcome to **GenAIlytics **, your intelligent assistant for seamless, natural language interaction with data. This platform brings the power of AI to your fingertips, enabling you to query, analyze, and interpret datasets without writing a single line of code.
 
-![GenBi Banner](https://your-image-link.com/banner.png) <!-- Optional: Add a project banner -->
 
 ---
 
@@ -31,7 +30,7 @@ Welcome to **GenBi v3**, your intelligent assistant for seamless, natural langua
 ## 📂 Project Structure
 
 ```
-GenBi_v3-main/
+GenAIlytics-main/
 ├── agents/              # AI agents and workflows
 ├── api/                 # API endpoints
 ├── models/              # ML and rule-based models
@@ -51,8 +50,8 @@ GenBi_v3-main/
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/GenBi_v3.git
-cd GenBi_v3
+git clone https://github.com/Far-1975/GenAIlytics.git
+cd GenAIlytics
 pip install -r requirements.txt
 ```
 
