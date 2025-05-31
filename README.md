@@ -72,14 +72,6 @@ GenBi will analyze your uploaded dataset and respond intelligently using built-i
 
 ---
 
-## 📸 Screenshots
-
-<!-- Replace with actual screenshots -->
-![App Screenshot](https://your-image-link.com/screenshot1.png)
-![Query in Action](https://your-image-link.com/screenshot2.gif)
-
----
-
 ## 🌐 Deployment
 
 This project is configured for Vercel deployment. Simply push to a GitHub repository and connect to Vercel for automatic deployment.
@@ -100,4 +92,6 @@ We welcome contributions! Please fork the repo and create a pull request. For ma
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name](mailto:your.email@example.com)
+Made with ❤️ by [Syed Faisal](mailto:syedfaisal8792@gmail.com)
+Made with ❤️ by [Sharath K M](mailto:sharathkmsharu2004@gmail.com)
+
